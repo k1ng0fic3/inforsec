@@ -1,0 +1,16 @@
+{
+    "name": "itb/inforsec",
+    "description": "for inforsec",
+    "autoload": {
+        "psr-4": {
+            "Itb\\Inforsec\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BHNumb",
+            "email": "572929574@qq.com"
+        }
+    ],
+    "require": {}
+}
